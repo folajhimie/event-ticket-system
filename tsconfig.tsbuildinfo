@@ -1,0 +1,31 @@
+{
+    "root": [
+        "./src/app.ts",
+        "./src/controllers/eventcontroller.ts",
+        "./src/lib/prisma.ts",
+        "./src/middleware/auth.ts",
+        "./src/middleware/logger.ts",
+        "./src/middleware/ratelimiter.ts",
+        "./src/middleware/validation.ts",
+        "./src/migrations/migrate.ts",
+        "./src/models/event.ts",
+        "./src/routes/events.ts",
+        "./src/services/bookingservice.ts",
+        "./src/services/eventservice.ts",
+        "./src/services/waitinglistservice.ts",
+        "./src/types/index.ts",
+        "./generated/prisma/browser.ts",
+        "./generated/prisma/client.ts",
+        "./generated/prisma/commoninputtypes.ts",
+        "./generated/prisma/enums.ts",
+        "./generated/prisma/models.ts",
+        "./generated/prisma/internal/class.ts",
+        "./generated/prisma/internal/prismanamespace.ts",
+        "./generated/prisma/internal/prismanamespacebrowser.ts",
+        "./generated/prisma/models/booking.ts",
+        "./generated/prisma/models/event.ts",
+        "./generated/prisma/models/waitinglist.ts"
+    ],
+    "errors": true,
+    "version": "5.9.3"
+}

@@ -1,0 +1,70 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "mysql"
+}
+
+model User {
+  id        String   @id @default(uuid())
+  email     String   @unique
+  name      String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  
+  bookings    Booking[]
+  waitingList WaitingList[]
+
+  @@map("users")
+}
+
+model Booking {
+  id          String        @id @default(uuid())
+  eventId     String
+  userId      String
+  status      BookingStatus @default(CONFIRMED)
+  bookingTime DateTime      @default(now())
+  cancelledAt DateTime?
+  
+  event Event @relation(fields: [eventId], references: [id], onDelete: Cascade)
+  user  User  @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, eventId, status])
+  @@index([eventId, status])
+  @@index([userId, eventId])
+}
+
+model Event {
+  id               String        @id @default(uuid())
+  name             String
+  totalTickets     Int
+  availableTickets Int
+  createdAt        DateTime      @default(now())
+  updatedAt        DateTime
+  booking          Booking[]
+  waitingList      WaitingList[]
+
+  @@index([availableTickets])
+}
+
+model WaitingList {
+  id         String    @id @default(uuid())
+  eventId    String
+  userId     String
+  joinedAt   DateTime  @default(now())
+  notifiedAt DateTime?
+  
+  event Event @relation(fields: [eventId], references: [id], onDelete: Cascade)
+  user  User  @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, eventId])
+  @@index([eventId, joinedAt])
+}
+
+enum BookingStatus {
+  CONFIRMED
+  CANCELLED
+  WAITING
+}

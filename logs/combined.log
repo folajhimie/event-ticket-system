@@ -1,0 +1,145 @@
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-26T22:44:26.168Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-26T22:44:55.719Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T00:23:36.521Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T00:24:12.939Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T00:24:55.599Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T00:30:36.026Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T00:33:02.751Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T00:42:43.287Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events.","service":"ticket-booking-system","timestamp":"2025-11-27T01:07:46.565Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events","service":"ticket-booking-system","timestamp":"2025-11-27T01:09:03.704Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/status/1","service":"ticket-booking-system","timestamp":"2025-11-27T01:09:32.254Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/status/1","service":"ticket-booking-system","timestamp":"2025-11-27T01:09:48.897Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events","service":"ticket-booking-system","timestamp":"2025-11-27T01:10:06.542Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/status/6847623e-18e8-4f36-be20-00126bbc73dc","service":"ticket-booking-system","timestamp":"2025-11-27T01:11:20.130Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/6847623e-18e8-4f36-be20-00126bbc73dc","service":"ticket-booking-system","timestamp":"2025-11-27T01:11:28.070Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/status/6847623e-18e8-4f36-be20-00126bbc73dc","service":"ticket-booking-system","timestamp":"2025-11-27T01:11:39.678Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/status/6847623e-18e8-4f36-be20-00126bbc73dc","service":"ticket-booking-system","timestamp":"2025-11-27T01:11:58.298Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/status/6847623e-18e8-4f36-be20-00126bbc73dc","service":"ticket-booking-system","timestamp":"2025-11-27T01:18:05.184Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T01:28:31.183Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/status/6847623e-18e8-4f36-be20-00126bbc73dc","service":"ticket-booking-system","timestamp":"2025-11-27T01:29:39.274Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T01:30:19.622Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/status/6847623e-18e8-4f36-be20-00126bbc73dc","service":"ticket-booking-system","timestamp":"2025-11-27T01:31:56.916Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T01:32:53.864Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/status/6847623e-18e8-4f36-be20-00126bbc73dc","service":"ticket-booking-system","timestamp":"2025-11-27T01:33:04.201Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T01:35:29.087Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T01:50:15.843Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T01:50:28.431Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T01:51:13.704Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T01:51:56.051Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T01:52:39.168Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T01:58:56.956Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T01:59:36.803Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T02:04:00.583Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T02:05:37.408Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T02:09:54.574Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T02:12:29.811Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T02:14:44.648Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T02:15:19.047Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T02:15:46.940Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T02:17:59.222Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T02:23:05.840Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T02:23:49.875Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T02:27:44.811Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T02:28:57.991Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T02:29:36.996Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T02:33:53.468Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T02:34:30.585Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T02:35:01.391Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T02:39:51.542Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T03:22:47.848Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T03:23:33.840Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/status/6847623e-18e8-4f36-be20-00126bbc73dc","service":"ticket-booking-system","timestamp":"2025-11-27T03:24:32.834Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events","service":"ticket-booking-system","timestamp":"2025-11-27T03:24:41.626Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/status/2ca8a0a8-07ae-458b-b92d-16f0a883211c","service":"ticket-booking-system","timestamp":"2025-11-27T03:24:58.462Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/waiting-list/2ca8a0a8-07ae-458b-b92d-16f0a883211c","service":"ticket-booking-system","timestamp":"2025-11-27T03:25:38.946Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/status/2ca8a0a8-07ae-458b-b92d-16f0a883211c","service":"ticket-booking-system","timestamp":"2025-11-27T03:25:56.386Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T03:28:51.816Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:30:03.444Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:31:14.322Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:31:21.107Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:32:51.031Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:33:45.224Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:34:51.324Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:37:19.528Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:37:58.875Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:38:20.201Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:38:21.372Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:38:31.067Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T03:39:28.319Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:39:34.148Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T03:39:50.782Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:40:03.038Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:40:35.760Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:40:56.729Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T03:41:46.515Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:42:20.717Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:42:32.696Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:43:03.843Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:44:13.256Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:44:24.854Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:44:49.953Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:44:54.811Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:45:05.129Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T03:46:24.519Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:46:28.799Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T03:47:51.892Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:47:56.153Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T03:48:54.056Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:49:07.498Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:49:29.418Z","userAgent":"got (https://github.com/sindresorhus/got)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:49:36.775Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T03:50:33.595Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:50:37.021Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T03:52:28.402Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:53:27.923Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T03:54:17.871Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T03:54:23.040Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T03:56:38.660Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T04:00:21.553Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T04:01:02.477Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T04:01:06.732Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/user-bookings/02672fe2-246a-45c2-ac6b-fffc19329652","service":"ticket-booking-system","timestamp":"2025-11-27T04:02:31.012Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/user-bookings/02672fe2-246a-45c2-ac6b-fffc19329652","service":"ticket-booking-system","timestamp":"2025-11-27T04:02:59.453Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/user-bookings/02672fe2-246a-45c2-ac6b-fffc19329652","service":"ticket-booking-system","timestamp":"2025-11-27T04:03:07.727Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/user-bookings/02672fe2-246a-45c2-ac6b-fffc19329652","service":"ticket-booking-system","timestamp":"2025-11-27T04:03:27.557Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T04:03:59.717Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/user-bookings/02672fe2-246a-45c2-ac6b-fffc19329652","service":"ticket-booking-system","timestamp":"2025-11-27T04:04:03.249Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T04:04:47.747Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/waiting-list/2ca8a0a8-07ae-458b-b92d-16f0a883211c","service":"ticket-booking-system","timestamp":"2025-11-27T04:05:14.516Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/waiting-list/2ca8a0a8-07ae-458b-b92d-16f0a883211c","service":"ticket-booking-system","timestamp":"2025-11-27T04:09:30.631Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T04:11:40.738Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/waiting-list/2ca8a0a8-07ae-458b-b92d-16f0a883211c","service":"ticket-booking-system","timestamp":"2025-11-27T04:11:43.106Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/user-bookings/2ca8a0a8-07ae-458b-b92d-16f0a883211c","service":"ticket-booking-system","timestamp":"2025-11-27T04:12:09.954Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T04:15:04.535Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T04:15:21.210Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T04:16:38.193Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T04:16:53.526Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/user-bookings/2ca8a0a8-07ae-458b-b92d-16f0a883211c","service":"ticket-booking-system","timestamp":"2025-11-27T04:16:57.857Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T04:17:24.647Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/user-bookings/2ca8a0a8-07ae-458b-b92d-16f0a883211c","service":"ticket-booking-system","timestamp":"2025-11-27T04:17:39.024Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/user-bookings/2ca8a0a8-07ae-458b-b92d-16f0a883211c","service":"ticket-booking-system","timestamp":"2025-11-27T04:23:14.340Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/user-bookings/2ca8a0a8-07ae-458b-b92d-16f0a883211c","service":"ticket-booking-system","timestamp":"2025-11-27T04:23:22.434Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/user-bookings/02672fe2-246a-45c2-ac6b-fffc19329652","service":"ticket-booking-system","timestamp":"2025-11-27T04:24:03.886Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T04:24:33.007Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T04:24:47.110Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T04:25:43.005Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T04:26:28.497Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/book","service":"ticket-booking-system","timestamp":"2025-11-27T04:26:52.496Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events/user-bookings/02672fe2-246a-45c2-ac6b-fffc19329652","service":"ticket-booking-system","timestamp":"2025-11-27T04:27:30.536Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/cancel","service":"ticket-booking-system","timestamp":"2025-11-27T04:30:51.345Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/initialize","service":"ticket-booking-system","timestamp":"2025-11-27T04:32:33.785Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T05:20:55.968Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/waitlist/create-waitlist","service":"ticket-booking-system","timestamp":"2025-11-27T05:21:05.727Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/waitlist/waiting-list/c905ba73-cf30-4646-96d4-d5a0519fcc0e","service":"ticket-booking-system","timestamp":"2025-11-27T05:21:57.504Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T05:22:42.121Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/waitlist/waiting-list/a904fb28-d26c-4ec5-b43c-532845ababb7","service":"ticket-booking-system","timestamp":"2025-11-27T05:22:43.182Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/waitlist/waiting-list/a904fb28-d26c-4ec5-b43c-532845ababb7/event/c905ba73-cf30-4646-96d4-d5a0519fcc0e","service":"ticket-booking-system","timestamp":"2025-11-27T05:23:38.173Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T14:11:26.714Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T14:16:18.524Z"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T14:17:18.569Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events","service":"ticket-booking-system","timestamp":"2025-11-27T14:18:21.396Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/events/initialize","service":"ticket-booking-system","timestamp":"2025-11-27T14:20:10.807Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/events","service":"ticket-booking-system","timestamp":"2025-11-27T14:23:42.281Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Server started on port 3000","service":"ticket-booking-system","timestamp":"2025-11-27T15:25:26.370Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/waitlist/create-waitlist","service":"ticket-booking-system","timestamp":"2025-11-27T15:29:00.349Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
