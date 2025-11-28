@@ -5,7 +5,10 @@ import { Booking, BookingStatus } from '../../generated/prisma/client';
 import { BookingResult, CancellationResult } from '../types';
 
 export class BookingService {
-    async createBooking(eventId: string, userId: string): Promise<BookingResult> {
+    // static createBooking(arg0: string, arg1: string) {
+    //     throw new Error('Method not implemented.');
+    // }
+    async createBooking(eventId: string, userId: string): Promise<any> {
         if (!eventId || !userId) {
             throw new Error('Event ID and User ID are required');
         }

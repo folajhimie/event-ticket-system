@@ -1,5 +1,7 @@
 import { EventService } from '../../src/services/EventService';
-import prisma from '../../src/lib/prisma';
+// import prisma from '../../src/lib/prisma';
+import { BookingStatus } from '../../generated/prisma/client'; 
+import { prisma } from '../../src/lib/prisma';
 
 jest.mock('../../src/lib/prisma');
 
@@ -20,8 +22,9 @@ describe('EventService - Unit Tests', () => {
             };
 
             (prisma.event.create as jest.Mock).mockResolvedValue(mockEvent);
+            const eventService = new EventService();
 
-            const result = await EventService.createEvent('Test Concert', 100);
+            const result = await eventService.createEvent('Test Concert', 100);
 
             expect(prisma.event.create).toHaveBeenCalledWith({
                 data: {
@@ -35,12 +38,14 @@ describe('EventService - Unit Tests', () => {
         });
 
         it('should throw error for empty event name', async () => {
-            await expect(EventService.createEvent('', 100))
+            const eventService = new EventService();
+            await expect(eventService.createEvent('', 100))
                 .rejects.toThrow('Event name is required');
         });
 
         it('should throw error for invalid ticket count', async () => {
-            await expect(EventService.createEvent('Test Event', 0))
+            const eventService = new EventService();
+            await expect(eventService.createEvent('Test Event', 0))
                 .rejects.toThrow('Total tickets must be greater than 0');
         });
     });
@@ -58,7 +63,9 @@ describe('EventService - Unit Tests', () => {
             (prisma.booking.count as jest.Mock).mockResolvedValue(50);
             (prisma.waitingList.count as jest.Mock).mockResolvedValue(10);
 
-            const result = await EventService.getEventStatus('event-1');
+            const eventService = new EventService();
+
+            const result = await eventService.getEventStatus('event-1');
 
             expect(result.eventId).toBe('event-1');
             expect(result.availableTickets).toBe(50);
@@ -69,7 +76,9 @@ describe('EventService - Unit Tests', () => {
         it('should throw error for non-existent event', async () => {
             (prisma.event.findUnique as jest.Mock).mockResolvedValue(null);
 
-            await expect(EventService.getEventStatus('non-existent'))
+            const eventService = new EventService();
+
+            await expect(eventService.getEventStatus('non-existent'))
                 .rejects.toThrow('Event not found');
         });
     });

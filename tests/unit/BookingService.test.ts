@@ -1,6 +1,7 @@
 import { BookingService } from '../../src/services/BookingService';
-import prisma from '../../src/lib/prisma';
-import { BookingStatus } from '@prisma/client';
+import { prisma } from '../../src/lib/prisma';
+import { BookingStatus } from '../../generated/prisma/client';
+
 
 jest.mock('../../src/lib/prisma');
 
@@ -44,7 +45,9 @@ describe('BookingService - Unit Tests', () => {
                 return await callback(mockTx);
             });
 
-            const result = await BookingService.createBooking('event-1', 'user-1');
+            const bookingService = new BookingService();
+
+            const result: any = await bookingService.createBooking('event-1', 'user-1');
 
             expect(result.success).toBe(true);
             expect(result.status).toBe(BookingStatus.CONFIRMED);
@@ -85,7 +88,9 @@ describe('BookingService - Unit Tests', () => {
                 return await callback(mockTx);
             });
 
-            const result = await BookingService.createBooking('event-1', 'user-1');
+            const bookingService = new BookingService();
+
+            const result: any = await bookingService.createBooking('event-1', 'user-1');
 
             expect(result.success).toBe(true);
             expect(result.status).toBe(BookingStatus.WAITING);
@@ -123,8 +128,9 @@ describe('BookingService - Unit Tests', () => {
             (prisma.$transaction as jest.Mock).mockImplementation(async (callback: any) => {
                 return await callback(mockTx);
             });
+            const bookingService = new BookingService();
 
-            await expect(BookingService.createBooking('event-1', 'user-1'))
+            await expect(bookingService.createBooking('event-1', 'user-1'))
                 .rejects.toThrow('User already has an active booking or waiting list entry for this event');
         });
     });

@@ -1,7 +1,7 @@
 import request from 'supertest';
 import app from '../../src/app';
-import prisma from '../../src/lib/prisma';
-import { BookingStatus } from '@prisma/client';
+// import prisma from '../../src/lib/prisma';
+import { prisma } from '../../src/lib/prisma';
 
 jest.mock('../../src/lib/prisma');
 
